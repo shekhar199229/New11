@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jul 05 19:49:36 IST 2021<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>42754</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Page Loaded successfully</td>
+</tr>
+
+<tr>
+<td>42788</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Application opened in given Browser</td>
+</tr>
+
+<tr>
+<td>45123</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">login successfully</td>
+</tr>
+
+<tr>
+<td>56701</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Search button clicked</td>
+</tr>
+
+<tr>
+<td>61710</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Page Loaded successfully</td>
+</tr>
+
+<tr>
+<td>61788</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Page title matched</td>
+</tr>
+
+<tr>
+<td>68927</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Timesheet button clicked</td>
+</tr>
+
+<tr>
+<td>70685</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">LogHours button clicked</td>
+</tr>
+
+<tr>
+<td>73599</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">project field clicked</td>
+</tr>
+
+<tr>
+<td>88671</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Unable to find the WebElement in the web page by using its locator: By.xpath: //*[@id="02022021"] within the timeout: 15</td>
+</tr>
+
+<tr>
+<td>95238</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="ApplicationLog category">ApplicationLog</td>
+<td title="Message">Step failed and Browser closed</td>
+</tr>
